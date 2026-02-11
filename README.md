@@ -1,7 +1,5 @@
 # Destaques em Open Source
 
-# Destaques em Open Source
-
 ## Angular
 - PR principal: https://github.com/angular/angular/pull/66969  
 - Backport (21.1.x): https://github.com/angular/angular/pull/66977  
