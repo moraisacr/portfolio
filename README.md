@@ -7,7 +7,3 @@
 
 ## Observações
 - Foco em DX, clareza de documentação e correções pequenas com impacto real.
-
-
-## Observações
-- Foco em DX, clareza de documentação e correções pequenas com impacto real.
